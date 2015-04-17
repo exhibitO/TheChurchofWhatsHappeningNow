@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Church of Whats Happening Now</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="menus">
+        <item >Podcasts</item>
+        <item >Tour Dates</item>
+        <item >About Joey</item>
+        <item >To Do</item>
+
+    </string-array>
+
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+
+</resources>
